@@ -32,7 +32,7 @@ public class TestDemo {
 //			new Thread(mt2).start();
 //			new Thread(mt3).start();
 		
-		
+		System.out.println("hello");
 		final String name="Thread";
 		new Thread(new Runnable() {
 			
